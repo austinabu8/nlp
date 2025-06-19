@@ -1,4 +1,5 @@
 from PIL import Image, ImageFilter, ImageOps
+#https://github.com/UB-Mannheim/tesseract/wiki
 import pytesseract
 
 # Set the path to the Tesseract executable
